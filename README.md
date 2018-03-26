@@ -1,5 +1,9 @@
 # HKUST COMP3111 Software Engineering (Spring 2018)
 
-This is the modified README for the dev-jack branch
+Team Name: Coca¡@Cola
 
-Sorry, here is my second attempt to make changes to README
+Team¡@Members:
+
+	CHENG Chi Fung (cfchengac@connect.ust.hk), Team Leader
+	Hung Chun Man (cmhung@connect.ust.hk)
+	LAU Tung Lung (tllauac@connect.ust.hk)
